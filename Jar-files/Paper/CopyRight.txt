@@ -1,0 +1,9 @@
+Note: All jar files from this dir was downloaded from
+https://papermc.io/downloads
+
+All Paper Supported versions:
+  Paper-1.15.2
+  Vanilla-1.16.2
+
+For Support and questions Join out Discord Support server
+LINK.com
