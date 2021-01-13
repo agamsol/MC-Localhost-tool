@@ -1,6 +1,3 @@
 Note: All jar files from this dir was downloaded from
 https://papermc.io/downloads
 https://papermc.io/legacy
-
-For Support and questions Join out Discord Support server
-LINK.com
